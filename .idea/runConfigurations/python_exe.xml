@@ -1,0 +1,26 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="python.exe" type="PythonConfigurationType" factoryName="Python" singleton="true">
+    <module name="Image Processing and Detection" />
+    <option name="ENV_FILES" value="" />
+    <option name="INTERPRETER_OPTIONS" value="" />
+    <option name="PARENT_ENVS" value="true" />
+    <envs>
+      <env name="PYTHONUNBUFFERED" value="1" />
+    </envs>
+    <option name="SDK_HOME" value="" />
+    <option name="SDK_NAME" value="Python 3.10 (pythonProject4)" />
+    <option name="WORKING_DIRECTORY" value="D:\PythonEnv" />
+    <option name="IS_MODULE_SDK" value="false" />
+    <option name="ADD_CONTENT_ROOTS" value="true" />
+    <option name="ADD_SOURCE_ROOTS" value="true" />
+    <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+    <option name="SCRIPT_NAME" value="$USER_HOME$/anaconda3/python.exe" />
+    <option name="PARAMETERS" value="" />
+    <option name="SHOW_COMMAND_LINE" value="false" />
+    <option name="EMULATE_TERMINAL" value="false" />
+    <option name="MODULE_MODE" value="false" />
+    <option name="REDIRECT_INPUT" value="true" />
+    <option name="INPUT_FILE" value="C:\Users\KIIT\anaconda3\condabin\conda.bat" />
+    <method v="2" />
+  </configuration>
+</component>
